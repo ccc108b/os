@@ -1,14 +1,13 @@
-# 作業系統進階
+# 陳鍾誠的系統程式課程 (作業系統篇)
 
-* [xv6] -- UNIXv6 移植到 x86, RISCV 上的版本。
-* [hackOs] -- Nand2tetris 課程指定的《自製作業系統》專案。
-* [mini-arm-os] -- jserv 的教學示範作業系統 (ARM Cortex M 處理器)。
+## xv6
 
-## 閱讀
+* xv6 -- UNIXv6 移植到 x86, RISCV 上的版本。
+* [xv6-riscv 書籍中文版](xv6/riscv/cbook/README.md)
+* [xv6-x86 書籍中文版](xv6/x86/cbook/README.md)
+
+## 書籍
 
 * [Operating Systems: Three Easy Pieces (Book)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-    * https://github.com/remzi-arpacidusseau/ostep-code
-    * https://github.com/remzi-arpacidusseau/ostep-projects
-    * https://github.com/remzi-arpacidusseau/ostep-translations
-    * https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese (中文版)
-    * 目前讀到
+    * [中文版](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese)
+
